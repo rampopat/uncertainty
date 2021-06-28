@@ -13,7 +13,7 @@ year={2021}
 -----
 Repository Contents:
 
-This repository contains four Colab Notebooks. I suggest that you press the ''Open in Colab'' link at the top when you open a file. We used Colab notebooks for ease of GPU access. The four notebooks are as follows and there is a description inside each notebook with a table of contents in a markdown hierarchy:
+This repository contains four Colab Notebooks. I suggest that you press the ''Open in Colab'' link at the top when you open a file. Note that you may have to press reload several times as the files are rather large. If that does not work, please download the files and open them in a Jupyter/Colab Notebook. We used Colab notebooks for ease of GPU access. The four notebooks are as follows and there is a description inside each notebook with a table of contents in a markdown hierarchy:
 
 1. Main_Notebook_DementiaBank.ipynb - This contains the code for the Bayesian Deep Learning and Referral Learning models and Active Learning implementation for the DementiaBank dataset [1]. This includes the data and machine learning pipelines.
 2. Main_Notebook_MIMIC.ipynb - Same as 1 but for the MIMIC dataset with Phenotype Annotation [2, 3, 4, 5].
